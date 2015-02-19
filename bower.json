@@ -1,0 +1,22 @@
+{
+  "name": "guara",
+  "version": "1.0.0",
+  "authors": [
+    "Leandro Cruz <leandro.saad@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.0",
+    "jquery": "~2.1.0",
+    "json2": "*",
+    "bootstrap": "~3.2.0",
+    "requirejs-bower": "~2.1.0"
+  }
+}

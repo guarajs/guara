@@ -1,0 +1,7 @@
+@import "../bootstrap/dist/css/bootstrap.css";
+
+.rounded {
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	padding: 6px;
+}
