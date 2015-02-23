@@ -3,7 +3,7 @@ Guara is collection of Polymer custom components that wrap Bootstrap components,
 
 # Getting Started
 
-If you know [Polymer](www.polymer-project.org), the easiest way to get started is by adding guara-elements#master as a bower dependency and incluing guara-elements.html in your index.html.  
+If you know [Polymer](http://www.polymer-project.org), the easiest way to get started is by adding guara-elements#master as a bower dependency and incluing guara-elements.html in your index.html.  
 
 ```html
 <link rel="import" href="bower/guara-elements/guara-elements.html">
