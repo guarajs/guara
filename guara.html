@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="guara.css">
+<script src="guara.js"></script>
 <link rel="import" href="../polymer/polymer.html">
 
 <script>
@@ -14,9 +15,5 @@
 		console.log('Your Brower has no native support for web components');
 		document.write('<script src="../webcomponentsjs/webcomponents.min.js"><\/script>');
 	}
-
-	window.$g = {msg: "Guara is not loaded yet!"};
-	require(['gl!guara/guara'], function (guara) {
-		window.$g = guara;
-	});
 </script>
+
