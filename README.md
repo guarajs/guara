@@ -1,6 +1,9 @@
 # Guara
 Guara is collection of Polymer custom components that wrap Bootstrap components, plus some new stuff like &lt;g-table&gt;, &lt;g-excel&gt; and &lt;g-remote-file&gt;
 
+# See it in action
+You can find some samples [here](http://www.scrum.com.br/guara-demo/).
+
 # Getting Started
 
 If you know [Polymer](http://www.polymer-project.org), the easiest way to get started is by adding guara-elements#master as a bower dependency and incluing guara-elements.html in your index.html.  
